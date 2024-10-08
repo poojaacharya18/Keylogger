@@ -1,0 +1,5 @@
+Clipboard Data: 
+https://ssp.postmatric.karnataka.gov.in/2324_sa/signin.aspxClipboard Data: 
+https://ssp.postmatric.karnataka.gov.in/2324_sa/signin.aspxClipboard Data: 
+https://ssp.postmatric.karnataka.gov.in/2324_sa/signin.aspxClipboard could be not be copiedClipboard could be not be copiedClipboard could be not be copiedClipboard could be not be copiedClipboard could be not be copiedClipboard Data: 
+pynput.keyboard is a Python library that allows you to monitor and control keyboard input events. It's commonly used for tasks such as creating keyloggers, automating keyboard input, or building applications that require keyboard interaction monitoring.Clipboard could be not be copiedClipboard could be not be copiedClipboard could be not be copied
